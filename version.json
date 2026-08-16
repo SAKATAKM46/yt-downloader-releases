@@ -1,6 +1,6 @@
 {
   "version": "1.0.5",
-  "url": "https://github.com/SAKATAKM46/yt-downloader-releases/releases/v1.0.5/YouTubeDownloader-v1_0_5.exe",
+  "VERSION_CHECK_URL = "https://raw.githubusercontent.com/SAKATAKM46/yt-downloader-releases/main/version.json",
   "download_url": "https://github.com/SAKATAKM46/yt-downloader-releases/releases/download/v1.0.5/YouTubeDownloader-v1_0_5.exe",
   "notes": "- Διόρθωση bug στο update του yt-dlp\n- Auto-retry στα batch downloads\n- Επιλογή AAC/Opus ήχου στα βίντεο"
 }
